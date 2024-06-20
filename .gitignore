@@ -1,0 +1,109 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+logs/**/*.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Environment variables
+.env
+
+# Build directories
+dist/
+build/
+out/
+tmp/
+temp/
+*.tmp
+
+# Cache directories
+.cache/
+.next/
+.nuxt/
+.sass-cache/
+.terraform/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.~undo-tree~
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Coverage
+coverage/
+*.lcov
+*.lcov.info
+
+# Static analysis
+.pylint.d/
+.eslintcache
+.stylelintcache
+
+# Generated files
+*.iml
+*.class
+*.war
+*.jar
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+*.pyo
+*.pyd
+
+# Static site generators
+public/
+.cache/
+.hugo_build.lock
+
+# Miscellaneous
+*.sql
+*.sqlite
+*.db
+
+# JavaScript/TypeScript specific
+*.tsbuildinfo
+*.map
+
+# Next.js specific
+.next/
+out/
+
+# Gatsby specific
+.cache/
+public/
+
+# Nuxt.js specific
+.nuxt/
+
+# Angular specific
+.angular/
